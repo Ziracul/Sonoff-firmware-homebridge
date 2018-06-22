@@ -1,5 +1,4 @@
 /*
-   https://tzapu.com/sonoff-firmware-boilerplate-tutorial/
    1MB flash sizee
 
    sonoff header
